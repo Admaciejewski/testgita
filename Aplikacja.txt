@@ -1,1 +1,7 @@
 nic tu nie ma
+
+public void przypomnijHaslo {
+
+
+
+}
